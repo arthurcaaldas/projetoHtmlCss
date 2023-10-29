@@ -1,0 +1,14 @@
+.sponsors {
+  background-color: var(--color-primary);
+  height: 120px;
+}
+
+.title {
+  padding: 17px;
+  border: 5px solid var(--color-primary);
+  display: inline-block;
+}
+
+.content-cards {
+  color: var(--color-black)
+}

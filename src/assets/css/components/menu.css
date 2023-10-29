@@ -1,0 +1,23 @@
+.menu {
+  font-family: var(--font-base);
+  font-size: 16px;
+  margin: 30px;
+}
+
+.menu li {
+  margin: 10px;
+  padding: 10px;
+}
+
+.menu li a {
+  color: var(--color-black);
+  text-transform: uppercase;
+}
+
+.menu li a.special {
+  background-color: var(--color-black);
+  color: var(--color-white);
+  text-transform: uppercase;
+  padding: 10px 15px;
+  border-radius: 5px;
+}

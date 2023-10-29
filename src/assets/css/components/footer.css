@@ -1,0 +1,24 @@
+.footer {
+  background-color: var(--color-black);
+  color: var(--color-gray);
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.footer h3 {
+  color: var(--color-white);
+  font-size: 2rem;
+}
+
+.footer p {
+  font-size: 1.2rem;
+  color: var(--color-gray-dark);
+}
+
+.footer a {
+  color: var(--color-gray-dark)
+}
+
+.color-gray-light a {
+  color: var(--color-gray-light);
+}
